@@ -1,2 +1,5 @@
-Hello, I am Immanuel Shikanda
-A Computer Scientist, Developer and Designer
+## Hello
+
+I am Immanuel Shikanda
+
+Computer Scientist | Developer | Designer
